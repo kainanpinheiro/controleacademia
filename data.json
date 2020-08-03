@@ -1,0 +1,64 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://source.unsplash.com/collection/8353395/500x500",
+      "name": "Bruninda Lima",
+      "email": "bruninda@hotmail.com",
+      "birth": 904608000000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "60",
+      "height": "170"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://source.unsplash.com/collection/8353395/500x500",
+      "name": "Guilherme",
+      "email": "guilherme@hotmail.com",
+      "birth": 925862400000,
+      "gender": "M",
+      "blood": "B+",
+      "weight": "80",
+      "height": "170"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Stheno",
+      "birth": 10627200000,
+      "services": "Crossfit",
+      "gender": "M",
+      "avatar_url": "https://source.unsplash.com/collection/8353395/500x500",
+      "created_at": 1595738465489
+    },
+    {
+      "id": 3,
+      "name": "Lauren Caroline",
+      "birth": 1056412800000,
+      "services": "Dança",
+      "gender": "F",
+      "avatar_url": "https://source.unsplash.com/collection/8353395/500x500",
+      "created_at": 1595738547015
+    },
+    {
+      "id": 4,
+      "name": "Priscila Barboza",
+      "birth": 900288000000,
+      "services": "Dança, Natação",
+      "gender": "F",
+      "avatar_url": "https://source.unsplash.com/collection/8353395/500x500",
+      "created_at": 1595738572189
+    },
+    {
+      "id": 5,
+      "name": "Sebastião José",
+      "birth": 317174400000,
+      "services": "Lutas, Natação",
+      "gender": "M",
+      "avatar_url": "https://source.unsplash.com/collection/8353395/500x500",
+      "created_at": 1595738600539
+    }
+  ]
+}
